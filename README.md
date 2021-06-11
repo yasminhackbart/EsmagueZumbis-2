@@ -1,2 +1,2 @@
-# zombie-crush-2
+# esmague-zumbis-2
 solução do projeto de c30
